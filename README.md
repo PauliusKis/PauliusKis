@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**PauliusKis/PauliusKis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Paulius, a Cyber Security Engineer based in Lithuania.
 
-Here are some ideas to get you started:
+I primarily work on the Blue Team side — focusing on SIEM & IDS integration, telemetry analysis, and documentation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also use Linux to explore and experiment with various Red Hat tools.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- SIEM, EDR, IDS
+- Firewalls, IDS/IPS
+- MITRE ATT&CK framework
+- Cloud Security
+
+---
+
+## ☕ About Me
+
+- A big coffee enthusiast
+- Learning chess — aiming to reach 1200 ELO by the end of 2026
+- AI enthusiast
