@@ -6,6 +6,8 @@ I primarily work on the Blue Team side — focusing on SIEM & IDS integration, t
 
 I also use Linux to explore and experiment with various Red Hat tools.
 
+I will use this profile to document my journey to becoming a CISO.
+
 ---
 
 ## 🛠️ Tools & Technologies
