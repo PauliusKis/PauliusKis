@@ -24,3 +24,5 @@ I will use this profile to document my journey to becoming a CISO.
 - A big coffee enthusiast
 - Learning chess — aiming to reach 1200 ELO by the end of 2026
 - AI enthusiast
+- You can check my tech articles and guides here:
+  https://medium.com/@pauliuskisl  
